@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-19T13:34:09Z" name="Default suite" finished-at="2021-12-19T13:34:44Z" duration-ms="34582">
+    <groups>
+    </groups>
+    <test started-at="2021-12-19T13:34:09Z" name="Default test" finished-at="2021-12-19T13:34:44Z" duration-ms="34582">
+      <class name="TestVtiger.testvtigercampaign">
+        <test-method is-config="true" signature="Testprerequisite()[pri:0, instance:TestVtiger.testvtigercampaign@48793bef]" started-at="2021-12-19T13:34:09Z" name="Testprerequisite" description="pre requisite to perform operations in leads" finished-at="2021-12-19T13:34:34Z" duration-ms="24278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testprerequisite -->
+        <test-method signature="testcreatecampaign()[pri:0, instance:TestVtiger.testvtigercampaign@48793bef]" started-at="2021-12-19T13:34:34Z" name="testcreatecampaign" description="create new campaign" finished-at="2021-12-19T13:34:40Z" duration-ms="6113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreatecampaign -->
+        <test-method signature="testeditcampaign()[pri:1, instance:TestVtiger.testvtigercampaign@48793bef]" started-at="2021-12-19T13:34:40Z" name="testeditcampaign" description="edit new campaign" finished-at="2021-12-19T13:34:43Z" duration-ms="3243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testeditcampaign -->
+        <test-method signature="testdeletecampaign()[pri:2, instance:TestVtiger.testvtigercampaign@48793bef]" started-at="2021-12-19T13:34:43Z" name="testdeletecampaign" description="delete new campaign" finished-at="2021-12-19T13:34:44Z" duration-ms="912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeletecampaign -->
+      </class> <!-- TestVtiger.testvtigercampaign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
